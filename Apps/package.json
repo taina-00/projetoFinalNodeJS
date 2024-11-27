@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysqli": "^3.1.4",
+    "nodemon": "^3.1.7"
+  }
+}
